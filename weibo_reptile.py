@@ -13,7 +13,7 @@ value = []
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36',
-    'Cookie': '''SUBP=0033WrSXqPxfM72-Ws9jqgMF55529P9D9W5qhoXE_fX_6-IBv0749EmV; SUB=_2AkMVbdIVf8NxqwFRmP4VyGrgZIx1yA_EieKjMSPOJRMxHRl-yT8Xqkc5tRB6Pu38_a2joRwRTsXDxS5gMvGAuDBHFpLJ; UOR=www.baidu.com,weibo.com,www.baidu.com; SINAGLOBAL=84757312620.40042.1649592765721; _s_tentry=-; Apache=3272685487169.5845.1670207737119; ULV=1670207737124:10:2:2:3272685487169.5845.1670207737119:1670137065880'''
+    'Cookie': '''xxx'''
 }
 all_df = pd.DataFrame(columns=['排行', '热度', '标题', '评论时间', '用户名称', '转发次数', '评论次数', '点赞次数', '评论内容'])
 
